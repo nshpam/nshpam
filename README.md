@@ -1,9 +1,13 @@
 # Hi there👋
-<br /> >My name is Sirapa Sangna and you can call me **Pam**
+##<br />My name is Sirapa Sangna and you can call me **Pam**
 # Langauges and Tools 🖥️
 ### Front-End
 ### Back-end
 ### Database
+### Editors & Tools
+
+# Github Stats 📊
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshpam)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nshpam/nshpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
