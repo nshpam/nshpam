@@ -1,5 +1,5 @@
 # Hi there👋
-##<br />My name is Sirapa Sangna and you can call me **Pam**
+<br />##My name is Sirapa Sangna and you can call me **Pam**.
 
 # Languages and Tools 🖥️
 ### Front-End
