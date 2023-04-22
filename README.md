@@ -1,6 +1,6 @@
 # Hi there👋
 ##<br />My name is Sirapa Sangna and you can call me **Pam**
-# Langauges and Tools 🖥️
+# Languages and Tools 🖥️
 ### Front-End
 ### Back-end
 ### Database
