@@ -52,9 +52,7 @@ My name is Sirapa Sangna and you can call me **Pam**.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-# Github Stats 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshpam&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshpam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nshpam/nshpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
