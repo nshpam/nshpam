@@ -82,7 +82,7 @@ My name is Sirapa Sangna and you can call me **Pam**.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # Current Project
-- Project zomboid Translation
+- Project zomboid Translation : Tsar's Common Library 2.0
 - Game Checklist
 
 # Github Stats 📊
