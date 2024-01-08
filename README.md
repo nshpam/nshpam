@@ -1,5 +1,5 @@
 # Hi there👋
-My name is Sirapa Sangna and you can call me **Pam**.
+My name is Sirapa Sangna and you can call me **Pam**. A computer engineering student, with a hybrid skill. Possessing technical abilities to programming languages as well as communication skills. Seeking a Cooperative program to gain more work experience and equire skills.
 
 # Languages and Tools 🖥️
 <details>
